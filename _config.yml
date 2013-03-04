@@ -1,0 +1,15 @@
+safe: false
+auto: true
+server: true
+markdown: rdiscount
+pygments: true
+description: "{descripcion}"
+main_title: " | Jazmin Ruiz"
+twitter: 
+trackingID: 
+permalink: /:categories/:title/
+thumb: "/img/thumbs/"
+big: "/img/big/"
+pagination: true
+paginate: 4
+destination: /Users/ulises/Documents/toStage/jazmin/

@@ -1,0 +1,7 @@
+---
+layout: 
+title: Menu
+tipo: Fotografia, Editorial
+descripcion: Toma fotografica en "Maare" restaurante de comida yucateca y diseño grafico del menu.
+imagen: MenúII
+---
